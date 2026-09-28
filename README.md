@@ -299,8 +299,8 @@ pygame >= 2.1.0
 
 **Instalación:**
 ```bash
-git clone https://github.com/martinezmarcos93/dark_fantasy_game.git
-cd dark_fantasy_game
+git clone https://github.com/martinezmarcos93/dark-fantasy-game.git
+cd dark-fantasy-game
 pip install -r requirements.txt
 python main.py
 ```
